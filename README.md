@@ -1,6 +1,6 @@
-# ng2-basic-seed
+# ng2-material-seed
 
-This seed uses [https://github.com/preboot/angular2-webpack](https://github.com/preboot/angular2-webpack) seed as its base.
+This seed uses [https://github.com/preboot/angular2-webpack](https://github.com/preboot/angular2-webpack) seed as its base. It has been modified to work with [Angular CLI Tools](https://www.npmjs.com/package/angular-cli-tools) and [Material Design for Angular 2](https://github.com/angular/material2) to create an Angular 2 + Material Design starter seed that can be used right out of the box.
 
 To get started with this seed you have 2 options:
 
@@ -9,8 +9,9 @@ To get started with this seed you have 2 options:
 
 Some things that were modified from the original seed:
 
- * `src` folder more closely follows ng2 style guide
- * support for lazy loaded routes
+* `src` folder more closely follows ng2 style guide
+* support for lazy loaded routes
+* `package.json` files includes: [@angular/material](https://github.com/angular/material2)
 
 Full credit to the team at [https://github.com/preboot/angular2-webpack](https://github.com/preboot/angular2-webpack). Rest of the readme + instructions come from their seed:
 
